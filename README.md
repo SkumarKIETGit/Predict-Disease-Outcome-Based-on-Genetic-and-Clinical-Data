@@ -1,1 +1,0 @@
-# Predict-Disease-Outcome-Based-on-Genetic-and-Clinical-Data
